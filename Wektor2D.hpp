@@ -32,3 +32,4 @@ double operator*(Wektor2D v1,Wektor2D v2)
         double ix,iy;
         return (v1.getX()*v2.getX()+iy)*(v1.getY()*v2.getY());
     }
+    
